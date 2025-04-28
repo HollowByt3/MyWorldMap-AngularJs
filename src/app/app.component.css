@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'proggy';
+    src: url('https://www.programmingfonts.org/#proggy-clean');
+  }
+
+
+.mapwrapper svg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+
+}
+
+
+
+.mapwrapper svg path:hover{
+    cursor: pointer;
+    fill: white;
+    visibility: visible;
+    opacity: 1;
+    transition: 0.5s;
+}
+
