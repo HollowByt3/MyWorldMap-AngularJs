@@ -1,7 +1,7 @@
 # MyWorldMap
 
-This is application shows you information about every country in the world.
-Simply hover over the country and you will see the corresponding information as a tooltip
+This application shows you information about every country in the world.
+Simply hover over any country and you will see the corresponding information as a tooltip!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
